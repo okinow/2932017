@@ -1,0 +1,153 @@
+body{font-size:12px;font-family:Arial, Helvetica, sans-serif;color:#333;margin:0px;text-align:center; background:url(../../images/bodybg.gif) repeat-x}div{margin:0px auto;padding:0;}
+from,ul,img{border:0;}.clear{clear:both;height:0px;font-size:0px;overflow:hidden;}
+h1,h2,h3,h4,h5,h6,h7,form,select,input,label,img,p,dl,dt,dd{padding:0;margin:0;}li{list-style:none;overflow:hidden;}
+ul,li{padding:0;margin:0 auto}
+a:link {color:#000000;text-decoration:none;}
+a:visited {text-decoration:none;color:#000000;}
+a:hover {text-decoration:none;color:#FF0000;}
+a:active {text-decoration:none;color:#FF0000;}
+/*top*/
+#top{width:980px;margin-bottom:7px;position:relative}
+.logo{width:200px;height:80px;position:absolute;top:3px;left:10px;z-index:99;background:url(../../images/logo.gif)}
+.logo a{float:left;width:201px;height:125px}
+.set{height:30px;padding-top:50px;text-align:right}
+.set a{color:#003964;padding:0 15px 0 23px;font-weight:bold}
+.set .a1{background:url(../../images/topico.gif) no-repeat;}
+.set .a2{background:url(../../images/topico.gif) 0 -47px no-repeat}
+.menu,.menu .r,.menu .l{background:url(../../images/top.gif)}
+.menu{height:95px;}
+.menu .r{float:right;width:8px;height:95px;background-position:0 -99px}
+.menu .l{float:left;width:19px;height:95px;background-position:0 -198px}
+.menu .c{float:left;width:953px}
+.menu .nav{height:35px}
+.menu .so{width:245px;height:25px;float:right;padding-top:11px;}
+.menu .so .i{float:left;width:180px;height:25px;background:url(../../images/topico.gif) 0 -100px}
+.menu .k{float:left;width:158px;height:21px;margin:2px 2px 2px 20px;line-height:21px;border-width:0;}
+.menu #go{float:left;width:50px;height:25px;margin-left:5px;background:url(../../images/topico.gif) 0 -150px;cursor:pointer}
+.menu ul{clear:both;width:953px;height:45px;background:url(../../images/menu.gif) no-repeat;margin-top:11px}
+.menu li{float:left;line-height:37px;}
+.menu li a:link,.menu li a:visited{font-size:14px;font-weight:bold;color:#fff}
+.menu li a:hover{color:#cf0}
+.menu .li1{width:71px;}
+.menu .li1 a{padding-left:12px;}
+.menu .li2{width:88px;}
+.menu .li2 a{padding-left:18px;}
+.menu .li3{width:80px;}
+.menu .li3 a{padding-left:15px;}
+.menu .li4{width:112px;}
+.menu .li4 a{padding-left:22px;}
+.menu .li5{width:108px;}
+.menu .li5 a{padding-left:18px;}
+.menu .li6{width:101px;}
+.menu .li6 a{padding-left:10px;}
+.menu .li7{width:70px;}
+.menu .li7 a{padding-left:18px;}
+.menu .li8{width:90px;}
+.menu .li8 a{padding-left:18px;}
+.menu .li9{width:90px;}
+.menu .li9 a{padding-left:14px;}
+.menu .li10{width:118px}
+.menu .li10 a{padding-left:18px;}
+/*mid*/
+.mid{width:980px;clear:both}
+.mid .t{height:8px;background:url(../../images/frm.gif);overflow:hidden}
+.mid .b{height:8px;background:url(../../images/frm.gif) 0 -9px;overflow:hidden}
+.mid .c{width:974px;border-left:3px solid #82D2F4;border-right:3px solid #82D2F4;}
+/*play*/
+.tit{height:35px;line-height:30px;padding:16px 0}
+.tit .p1{float:left;width:120px;height:30px;color:#8A2222;font-size:14px;font-weight:bold;margin-left:25px;background:url(../../images/playico.gif) 0 3px no-repeat;cursor:pointer}
+.tit h1{float:left;width:350px;font-size:20px;color:#f93939;overflow:hidden;}
+.tit .p2{float:left;width:120px;height:30px;color:#8A2222;font-size:14px;font-weight:bold;margin-left:20px;background:url(../../images/playico.gif) 0 3px no-repeat;cursor:pointer}
+.tit .so{float:left;width:245px;height:25px;padding-left:50px}
+.tit .so .i{float:left;width:180px;height:25px;background:url(../../images/topico.gif) 0 -100px}
+.tit .so .k{float:left;width:158px;height:21px;margin:2px 2px 2px 20px;line-height:21px;border-width:0;}
+.tit .so #go{float:left;width:50px;height:25px;margin-left:5px;background:url(../../images/topico.gif) 0 -150px;cursor:pointer}
+.play{clear:both}
+.play .box{float:left;width:640px;height:490px;background:#000;border:#7bcef2 solid 1px;margin:0 17px;display:inline}
+.play .box_1{float:left;width:640px;height:490px;border:#7bcef2 solid 1px;display:inline}
+.play .rela{float:left;width:281px;height:482px;background:#dbeffa;overflow:hidden}
+.play .rela ul{width:260px;}
+.play .rela li{float:left;width:110px;height:109px;background-color:#fff;padding-top:5px;margin:5px 10px 0 10px;display:inline}
+.play .rela li img{width:100px;height:75px;}
+.play .rela li h3{width:100px;height:24px;line-height:12px;padding-top:5px;font-size:12px;font-weight:bold;overflow:hidden;}
+#box{z-index:999;}
+.ctr{width:940px;padding:4px 0;height:26px;margin-top:5px;background-color:#DBEFFA;}
+.ctr a{float:left;height:26px;line-height:26px;color:#0D86D7;font-size:12px;font-weight:bold;background:#DBEFFA url(../../images/playico.gif) no-repeat;overflow:hidden}
+.ctr a:hover{color:#ff2600;}
+#ctr1{width:72px;background-position:8px -78px;padding:0 0 0 33px;}
+#ctr2{width:40px;background-position:0 -108px;padding:0 0 0 28px;}
+#ctr3{width:50px;background-position:0 -138px;padding:0 0 0 28px;}
+#ctr4{width:50px;background-position:5px -168px;padding:0 0 0 33px;}
+#ctr5{width:10px;background-position:1px -199px;padding:0 0 0 24px;}
+#ctr6{width:10px;background-position:0 -227px;padding:0 0 0 24px;}
+#ctr7{width:10px;background-position:0 -253px;padding:0 0 0 24px;}
+#ctr8{width:10px;background-position:0 -285px;padding:0 0 0 24px;}
+#ctr9{width:10px;background-position:0 -316px;padding:0 0 0 24px;}
+#ctr10{width:10px;background-position:0 -348px;padding:0 0 0 24px;}
+#ctr11{width:65px;background-position:2px -377px;padding:0 0 0 25px;}
+#ctr12{width:38px;background-position:3px -412px;padding:0 0 0 30px;}
+#ctr13{width:63px;background-position:3px -440px;padding:0 0 0 32px;}
+#ctr14{width:95px;background-position:0 -50px;padding:0 0 0 35px;}
+.ctr a span{display:none}
+.gameinfo{width:920px;padding: 10px 0 10px 15px;text-align:left}
+#exitfull{height:20px;line-height:20px;color:#0D86D7;font-weight:bold;padding-right:50px;background:#efefef;text-align:right;display:none;cursor:pointer}
+.gameinfo h3{color:#275A85;font-weight:bold}
+.gameinfo h4{color:#0D86D7;font-size:12px;font-weight:bold;margin-top:6px;}
+.gameinfo h5{color:#0D86D7;font-size:12px;font-weight:bold;}
+.gameinfo .con{color:#0D86D7;}
+#rating {float:left;width:240px;background:url(../../images/bgr-rating.png) no-repeat scroll 0 0 transparent;height:36px;}
+#currentrating {height:10px;margin:1px 0 0 56px;width:180px;}
+#currentrating .inner{float:left;background:url(../../images/bgr-rating-green.png) repeat-x scroll 0 0 transparent;height:10px;width:180px;}
+#ratethis {margin:1px 0 0 56px;position:relative;width:180px;height:10px;z-index:1;overflow:hidden}
+#ratethis ol{list-style:none outside none;padding:0;margin:0}
+#ratethis li{float:left;}
+#ratethis li a {display:block;height:10px;overflow:hidden;position:absolute;text-indent:-9999em;width:9px;z-index:20;}
+#ratethis li a:hover {background:url(../../images/bgr-rating-orange.png) repeat scroll 0 0 transparent;left:0;z-index:1;}
+#rate-half {left:0;}
+#rate-half:hover {width:9px;}
+#rate-one {left:9px;}
+#rate-one:hover {width:18px !important;}
+#rate-one-half {left:18px;}
+#rate-one-half:hover {width:27px !important;}
+#rate-two {left:27px;}
+#rate-two:hover {width:36px !important;}
+#rate-two-half {left:36px;}
+#rate-two-half:hover {width:45px !important;}
+#rate-three {left:45px;}
+#rate-three:hover {width:54px !important;}
+#rate-three-half {left:54px;}
+#rate-three-half:hover {width:63px !important;}
+#rate-four {left:63px;}
+#rate-four:hover {width:72px !important;}
+#rate-four-half {left:72px;}
+#rate-four-half:hover {width:81px !important;}
+#rate-five {left:81px;}
+#rate-five:hover {width:90px !important;}
+#rate-five-half {left:90px;}
+#rate-five-half:hover {width:99px !important;}
+#rate-six {left:99px;}
+#rate-six:hover {width:108px !important;}
+#rate-six-half {left:108px;}
+#rate-six-half:hover {width:117px !important;}
+#rate-seven {left:117px;}
+#rate-seven:hover {width:126px !important;}
+#rate-seven-half {left:126px;}
+#rate-seven-half:hover {width:135px !important;}
+#rate-eight {left:135px;}
+#rate-eight:hover {width:144px !important;}
+#rate-eight-half {left:144px;}
+#rate-eight-half:hover {width:153px !important;}
+#rate-nine {left:153px;}
+#rate-nine:hover {width:162px !important;}
+#rate-nine-half {left:162px;}
+#rate-nine-half:hover {width:171px !important;}
+#rate-ten {left:171px;}
+#rate-ten:hover {width:180px !important;}
+#numplays{float:left;width:300px;text-align:center}
+#filesize{float:left;width:300px;text-align:center}
+#numplays span,#filesize span{color:#F93939}
+/*foot*/
+#foot{width:980px;margin:7px auto;padding:15px 0;text-align:center;}
+#foot p{line-height:20px;}
+#foot p.f a{padding:0 10px;font-weight:bold}
+#foot p.f a:link,#foot p.f a:visited{color:#0D86D7}

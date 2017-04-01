@@ -268,7 +268,7 @@ function _process(){
 		loaded = 100;
 	}
 	document.getElementById("bar").style.width = loaded + "%";
-		if(addtime >= 10000){
+		if(addtime >= 1){
 				clearTimeout(loadtimeout);
 				loadtimeout = null;
 				$("#showad").hide().remove();
